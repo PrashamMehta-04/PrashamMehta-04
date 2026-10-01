@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; Distributed Systems &nbsp;&nbsp;|&nbsp;&nbsp; Competitive Programmer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasham-mehta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prasham--mehta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Prasham07/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Prasham_Mehta" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/prasham_07" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
